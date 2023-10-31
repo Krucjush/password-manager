@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # File actually storing the sensitive data: email address and password
-data.txt
+data.json
